@@ -4,8 +4,7 @@ import Login from '../pages/Login';
 
 
 export const publicRoute = [
-    { path: "/", name: "Home", Component: Home },
-    { path: "/contact", name: "Contact", Component: Contact },
-    { path: "/Login", name: "Login", Component: Login }
-  ]
-  
+  { path: "/", name: "Home", Component: Home },
+  { path: "/contact", name: "Contact", Component: Contact },
+  { path: "/Login", name: "Login", Component: Login }
+]
